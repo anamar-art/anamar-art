@@ -10,3 +10,4 @@ As I continue my journey in QA, I am always on the lookout for collaborative pro
 - Dancing
 - Sing
 - Design
+- Writting
