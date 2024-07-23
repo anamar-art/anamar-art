@@ -5,3 +5,8 @@ Hello! I'm a passionate QA
  
  ## Contact me
 As I continue my journey in QA, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+
+## Language
+- English
+- Spanish
+- Korean
