@@ -11,3 +11,6 @@ As I continue my journey in QA, I am always on the lookout for collaborative pro
 - Sing
 - Design
 - Writting
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
